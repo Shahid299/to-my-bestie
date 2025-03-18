@@ -1,0 +1,79 @@
+BODY{
+    background-image: url("https://img.freepik.com/free-vector/blurred-valentine-s-day-wallpaper_23-2148819570.jpg");
+
+    background-size: cover;
+}
+
+
+
+
+h1{
+    text-align: center;
+}
+
+marquee{
+    font-family: arial;
+    font-size: larger;
+    font-weight: bold;
+    text-transform: capitalize;
+}
+
+h2{
+    font-family: arial;
+    font-size: larger;
+    font-weight: bold;
+    text-transform: capitalize; 
+}
+
+
+#box1{
+    height: 200px;
+    width: 200px;
+    border: 5px solid black;
+    background-image: url("YOU.jpg");
+    background-size: cover;
+    display: inline-block;
+}
+
+#box2{
+    height: 200px;
+    width: 200px;
+    border: 5px solid black;
+    background-image: url("YOU1.jpg");
+    background-size: cover;
+    display: inline-block;
+}
+
+#box3{
+    height: 200px;
+    width: 200px;
+    border: 5px solid black;
+    background-image: url("ME\ &\ YOU.jpg");
+    background-size: cover;
+    display: inline-block;
+}
+
+#box4{
+    height: 200px;
+    width: 200px;
+    border: 5px solid black;
+    background-image: url("ME\ &\ YOU\ \ 2.jpg");
+    background-size: cover;
+    display: inline-block;
+}
+#box5{
+    height: 200px;
+    width: 200px;
+    border: 5px solid black;
+    background-image: url("OLD.jpg");
+    background-size: cover;
+    display: inline-block;
+}
+
+footer{
+    text-align: center;
+    font-family: arial;
+    font-size: larger;
+    font-weight: bold;
+    text-transform: capitalize;
+}
